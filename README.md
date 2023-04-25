@@ -1,9 +1,8 @@
 # Inform-tica
 :grinning:
-:japanese_ogre:
-:japanese_goblin:
+:japanese_ogre:  ![download](https://user-images.githubusercontent.com/129512938/234310204-1993a002-ae30-4630-b569-37494b7fb53e.jpg)
 
-![download](https://user-images.githubusercontent.com/129512938/234310204-1993a002-ae30-4630-b569-37494b7fb53e.jpg)
+:japanese_goblin:
 
 https://www.meutimao.com.br/
 
